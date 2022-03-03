@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T08:24:49.280Z" agent="5.0 (Macintosh)" etag="cBkVUTNwmhDvMXTOcHu5" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T09:02:47.160Z" agent="5.0 (Macintosh)" etag="EaJ4-zIa6sQPd1D7-mUS" version="15.7.0" type="github">
   <diagram id="-oPLHSMnz3KgT2YxSXNt" name="Page-1">
     <mxGraphModel dx="1995" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="mG2dedWUTn2DNPqguD1p-2" value="&lt;div&gt;GitHub&lt;/div&gt;&lt;div&gt;(remote repository)&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="100" width="170" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="mG2dedWUTn2DNPqguD1p-4" value="&lt;div&gt;RStudio&lt;/div&gt;&lt;div&gt;(local repository)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mG2dedWUTn2DNPqguD1p-4" value="&lt;div&gt;RStudio Cloud&lt;br&gt;&lt;/div&gt;&lt;div&gt;(local repository)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="307.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mG2dedWUTn2DNPqguD1p-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;strokeColor=#CCCCCC;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" parent="1" edge="1">
